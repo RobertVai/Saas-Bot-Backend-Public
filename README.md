@@ -18,3 +18,4 @@ This repository contains **documentation and overview** of the SaaS AI assistant
 - **Database**: MongoDB
 - **AI**: OpenAI API
 - **Frontend**: Next.js (separate project)
+
